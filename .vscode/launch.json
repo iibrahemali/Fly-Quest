@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "type": "java",
+            "name": "FlyWorldGUI",
+            "request": "launch",
+            "mainClass": "FlyWorldGUI",
+            "projectName": "Fly-Quest_128dddd6",
+            "args": "world0.txt"
+        }
+    ]
+}
