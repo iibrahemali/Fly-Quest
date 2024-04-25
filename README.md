@@ -62,5 +62,5 @@ The project consists of several Java files:
 - Create additional world files to test different scenarios and edge cases.
 
 ## Notes
-- This project emphasizes object-oriented programming principles and encapsulation.
+- This project emphasizes OOP principles and encapsulation.
 - Documentation generated from code comments provides detailed information about each class and method.
