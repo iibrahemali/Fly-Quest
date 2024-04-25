@@ -9,13 +9,14 @@ Fly-Quest: A Simple Java Game
 <p align="center"><img src="https://socialify.git.ci/iibrahemali/Fly-Quest/image?language=1&amp;name=1&amp;owner=1&amp;theme=Dark" alt="project-image"></p>
 
 ## Description
-"Fly Away Home" is a simple Java game where the player controls a fly named Mosca and guides it safely to its home square while avoiding hungry predators like frogs and spiders.
+"Fly-Quest" is a simple Java game where the player controls a fly named Mosca and guides it safely to its home square while avoiding hungry predators like frogs and spiders.
 
 `
-Weekly Assignments in CPS II class (Algorithms & Data Structure in Java).
+An Assignment in CPS II class Spring'24 (Algorithms & Data Structure in Java).
 `
 
 `
+Period: 1 Week
 Grade: 100%
 `
 
@@ -49,6 +50,11 @@ The project consists of several Java files:
 4. **Moving Frogs**: Implement frog movement logic and ensure they do not overlap or move off the screen.
 5. **Eating the Fly**: Determine when a frog predator has eaten Mosca and end the game accordingly.
 6. **Along Came a Spider**: Implement a new predator, the spider, with unique movement behavior towards Mosca.
+
+<p align="center">
+  <img src="https://github.com/iibrahemali/Fly-Quest/blob/51da321984a4038066b995a64a27033d9fcace3c/GUI.png"/>
+  
+</p>
 
 ## Testing
 - Utilize provided sample world files (`world0.txt` and `world1.txt`) for basic testing.
