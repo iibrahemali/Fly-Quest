@@ -54,7 +54,7 @@ The project consists of several Java files:
 6. **Along Came a Spider**: Implement a new predator, the spider, with unique movement behavior towards Mosca.
 
 <p align="center">
-  <img src="https://github.com/iibrahemali/Fly-Quest/blob/51da321984a4038066b995a64a27033d9fcace3c/game.png"/>
+  <img src="https://github.com/iibrahemali/Fly-Quest/blob/8674cfd25bd80d34c52b48580663b496fa6be1a0/game.png"/>
 </p>
 
 ## Testing
