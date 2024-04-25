@@ -17,6 +17,9 @@ An Assignment in CPS II class Spring'24 (Algorithms & Data Structure in Java).
 
 `
 Period: 1 Week
+`
+
+`
 Grade: 100%
 `
 
@@ -53,7 +56,6 @@ The project consists of several Java files:
 
 <p align="center">
   <img src="https://github.com/iibrahemali/Fly-Quest/blob/51da321984a4038066b995a64a27033d9fcace3c/GUI.png"/>
-  
 </p>
 
 ## Testing
