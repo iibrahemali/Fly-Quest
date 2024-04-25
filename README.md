@@ -1,4 +1,12 @@
-# Fly-Quest: A Simple Java Game
+<h1 align="center" id="title">
+Fly-Quest: A Simple Java Game
+<br>
+<img id="Ibrahem" src="https://img.shields.io/badge/HEEM%20-%20Yellow?style=flat&label=IBRA&labelColor=%233b439c&color=%23418ce8">
+<img id="Star on GitHub" src="https://img.shields.io/badge/Stars%20-%20grey?style=flat&logo=GitHub">
+
+</h1>
+
+<p align="center"><img src="https://socialify.git.ci/iibrahemali/Fly-Quest/image?language=1&amp;name=1&amp;owner=1&amp;theme=Dark" alt="project-image"></p>
 
 ## Description
 "Fly Away Home" is a simple Java game where the player controls a fly named Mosca and guides it safely to its home square while avoiding hungry predators like frogs and spiders.
