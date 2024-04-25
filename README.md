@@ -18,7 +18,6 @@ An Assignment in CPS II class Spring'24 (Algorithms & Data Structure in Java).
 `
 Period: 1 Week
 `
-
 `
 Grade: 100%
 `
